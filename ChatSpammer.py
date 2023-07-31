@@ -22,7 +22,7 @@ class font:
 
 def start():
     root = Tk.Tk()
-    root.title("RBLX CHAT SPAMMER")
+    root.title("CHAT SPAMMER")
     root.geometry('350x350')
     root.resizable(False,False)
 
